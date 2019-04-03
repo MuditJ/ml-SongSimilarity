@@ -1,0 +1,5 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+#Ignore CSV file - Size larger than 100 MB. 
+*.csv
